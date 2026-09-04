@@ -29,7 +29,7 @@
         (Execute as: Me, Who has access: Anyone)
      3. Copy the deployment URL and paste it below.
   ========================================================= */
-  const GOOGLE_SCRIPT_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyjMQQeo6_TTHXNqWK6PSHqq5REp1criaV17XzxMPMKGg_vb--5ikLqEit0HZ55RTG9/exec";
 
   const form = document.getElementById('numerologyForm');
   const submitBtn = document.getElementById('submitBtn');
