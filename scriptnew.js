@@ -1,5 +1,5 @@
 
-<script>
+
   // Scatter floating numerology digits / symbols across the background
   (function(){
     const symbols = ['1','2','3','4','5','6','7','8','9','∞','☉','☽','✦','◇'];
@@ -66,4 +66,4 @@
       redirectNow();
     });
   });
-</script>
+
