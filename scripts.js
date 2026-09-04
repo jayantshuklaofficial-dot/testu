@@ -1,4 +1,4 @@
-<script>
+
 /* =========================================================
    CONFIG — edit these lines before going live
    ========================================================= */
@@ -131,4 +131,3 @@ form.addEventListener('submit', async function(e){
     statusMsg.classList.add('error');
   }
 });
-</script>
